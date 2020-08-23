@@ -1,5 +1,7 @@
 # Python
 
 ## Notes For Professional
-### Click below to go to 
-  <a href="">Chapter 1</a>
+### Chapter 1
+  <a href="https://sinku1196.github.io/python/Chapter_1.html">html</a>
+  <a href="https://raw.githubusercontent.com/sinku1196/python/master/NotesForProfessionals/Chapter_1.ipynb">Jupyter Notebook</a>
+  <a href="https://sinku1196.github.io/python/Chapter_1.html">pdf</a>
